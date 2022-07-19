@@ -15,5 +15,5 @@ services:
     ports:
       - 5432:5432
     environment:
-      POSTGRES_DB: ofds
+      POSTGRES_DB: fds
       POSTGRES_PASSWORD: postgres
